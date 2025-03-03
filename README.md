@@ -138,12 +138,4 @@ Tu veux améliorer le projet ? Forke-le et fais une **Pull Request** ! 🚀
 4. **Pusher** (`git push origin feature/nouvelle-fonction`)
 5. **Créer une Pull Request**
 
----
-
-## 📩 Contact
-💡 **Développeur :** Ton Nom  
-📧 **Email :** ton-email@example.com  
-🔗 **GitHub :** [github.com/ton-profil](https://github.com/ton-profil)
-
-🚀 **Merci d'utiliser ce projet !** 🔥
 
